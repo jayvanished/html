@@ -1,0 +1,33 @@
+#top {
+    background-color: #ccc;
+    padding: 20px
+}
+
+.intro {
+    color: red;
+    font-weight: bold;
+}
+
+p:hover {
+    color: purple
+}
+
+body {
+    background: white url(http://www.htmldog.com/images/bg.gif) no-repeat bottom right;
+}
+
+p {
+    font-size: 12px;
+}
+p:first-letter {
+    font-size: 24px;
+}
+p:first-line {
+    font-weight: bold;
+}
+
+li:before {
+    content: "POW! ";
+    background: red;
+    color: #fc0;
+}

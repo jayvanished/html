@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color:black;
+    background-color: #ffc;
+    margin: 20px;
+    padding: 0;
+}
+
+/* Experiment here */
+
+p {
+    line-height: 21px;
+}
+
+h1 {
+    font-size: 2em;
+    color: #ffc;
+    background-color:#900;
+    text-transform: uppercase;
+    margin: 0;
+    margin-bottom: 7px;
+    padding: 4px;
+    font-style: italic;
+    text-align: center;
+    letter-spacing: 0.5em;
+    border-bottom-style: solid;
+    border-bottom-width: 0.5em;
+    border-bottom-color: #c00;
+}
+
+h2 {
+    color: white;
+    font-size: 1.5em;
+    background-color: #090;
+    margin: 0;
+    padding: 2px;
+    padding-left: 14px;
+}
+
+h3 {
+    color: #999;
+    font-size: 1.25em;
+}
+
+img {
+    border: 2px #ccc dashed;
+}
+
+a {
+    text-decoration: none;
+}
+
+strong {
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+li {
+    color: #900;
+    font-style: italic;
+}
+
+table {
+    background-color: #ccc;
+}
